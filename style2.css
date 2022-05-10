@@ -1,0 +1,39 @@
+h1{
+    color: rgb(23, 24, 23);
+    font-size:100px;
+    text-align:center;
+    
+
+}
+
+label{color: rgb(223, 222, 222);
+    font-size:22px;
+background-color: rgb(8, 8, 8);
+ 
+
+}
+
+h5{
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    background-color: rgb(219, 216, 216);
+    width: 180px;
+}
+input{
+	font-size:22px;
+	text-align:center;
+	padding:2px;
+	border-radius:14px;	
+}
+h2{
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    background-color: rgb(231, 225, 225);
+    width: 180px;
+}
+body{
+
+    background-image:url(login.jpg);
+    background-size:1800px 800px;
+}
+

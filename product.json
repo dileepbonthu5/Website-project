@@ -1,0 +1,38 @@
+[
+    {
+       "name" : "wwe2k22",
+       "price" : 219.99,
+       "image" : "wrestling.jpg",
+       "type" : "wrestling"
+     },
+     {
+       "name" : "hockey",
+       "price" : 29.99,
+       "image" : "accesories.jpg",
+       "type" : "athletic"
+     },
+     {
+       "name" : "motogp",
+       "price" : 89.99,
+       "image" : "moto.jpg",
+       "type" : "sport"
+     },
+     {
+       "name" : "cricket",
+       "price" : 49.99,
+       "image" : "cricket.jpg",
+       "type" : "sport"
+     },
+     {
+       "name" : "running",
+       "price" : 55.99,
+       "image" : "run.jpg",
+       "type" : "athletic"
+     },
+     {
+       "name" : "fifa2022",
+       "price" : 26.99,
+       "image" : "soccer.jpg",
+       "type" : "sport"
+     }
+   ]

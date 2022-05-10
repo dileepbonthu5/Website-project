@@ -1,0 +1,31 @@
+h1{
+    color: rgb(23, 24, 23);
+    font-size:100px;
+    text-align:center;
+    
+
+}
+h5{
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    background-color: rgb(219, 216, 216);
+    width: 180px;
+}
+/*input{
+	font-size:22px;
+	text-align:center;
+	padding:2px;
+	border-radius:14px;	
+}
+h2{
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    background-color: rgb(231, 225, 225);
+    width: 180px;
+}*/
+body{
+
+    background-image:url(home.jpeg);
+    background-size:1800px 800px;
+}
+

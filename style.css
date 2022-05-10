@@ -1,0 +1,55 @@
+h1{
+    color: rgb(20, 20, 19);
+    font-size: 100px;
+    text-align:center;
+    
+    
+}
+h2{
+    color: rgb(20, 20, 19);
+    font-size: 40px;
+    text-align:left;
+    
+    
+}
+label{
+    color: rgb(182, 182, 42);
+    font-size: 20px;
+    text-align:center;
+}
+    table{
+        width:400px;
+        margin:100px auto;
+        padding:10px;
+        background:transparent;
+       
+        border-radius:15px;	
+        text-align:center;
+        color:black;
+        box-shadow:0 0 10px black;
+    }
+    
+    
+h4{
+    color: rgb(187, 185, 185);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-weight: 100;
+
+}
+p{
+    background-color: rgb(0, 132, 132);
+    text-align: center;
+    text-decoration-style:wavy;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+
+}
+
+
+body{
+    background-image:url(register.jpg);
+    background-size:1500px 800px;
+}
