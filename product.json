@@ -8,11 +8,11 @@
      {
        "name" : "hockey",
        "price" : 29.99,
-       "image" : "accesories.jpg",
+       "image" : "hockey.jpg",
        "type" : "athletic"
      },
      {
-       "name" : "motogp",
+       "name" : "moto gp",
        "price" : 89.99,
        "image" : "moto.jpg",
        "type" : "sport"
@@ -30,7 +30,7 @@
        "type" : "athletic"
      },
      {
-       "name" : "fifa2022",
+       "name" : "fifa 2022",
        "price" : 26.99,
        "image" : "soccer.jpg",
        "type" : "sport"
