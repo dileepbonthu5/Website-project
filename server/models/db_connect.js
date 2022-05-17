@@ -2,10 +2,10 @@ require('dotenv').config();
 const mysql = require('mysql2');
 
 const con = mysql.createPool({
-  host: process.env.MYSQL_HOST,
-  user: process.env.MYSQL_USERNAME,
-  password: process.env.MYSQL_PASSWORD,
-  database: process.env.MYSQL_DB
+  host: process.env.localhost,
+  user: process.env.root,
+  password: process.env.Dillu@1999,
+  database: process.env.games
 });
 
 const query = (sql, binding) => {
